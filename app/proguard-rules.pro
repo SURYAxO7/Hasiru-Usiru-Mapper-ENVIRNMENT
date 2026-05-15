@@ -1,0 +1,6 @@
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class com.hasiru.usiru.mapper.domain.model.** { *; }
+-keep class com.hasiru.usiru.mapper.data.remote.dto.** { *; }
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**

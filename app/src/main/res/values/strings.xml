@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hasiru-Usiru Mapper</string>
+    <string name="app_tagline">AI-Powered Green Mapping for Smart Cities</string>
+    <string name="notification_channel_name">Environmental Alerts</string>
+    <string name="notification_channel_desc">Tree updates, challenges, and municipality notifications</string>
+
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create Account</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="reset_email_sent">Password reset email sent. Check your inbox.</string>
+
+    <string name="onboard_title_1">Map Urban Greenery</string>
+    <string name="onboard_desc_1">Tag trees and identify empty planting pits across Bengaluru and Mysuru using interactive maps.</string>
+    <string name="onboard_title_2">AI Species Intelligence</string>
+    <string name="onboard_desc_2">Identify native species with AI, calculate oxygen scores, and get environmental recommendations.</string>
+    <string name="onboard_title_3">Community Impact</string>
+    <string name="onboard_desc_3">Earn points, join eco-challenges, and help municipalities build greener smart cities.</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_species">Species</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="dashboard_greeting">Green Dashboard</string>
+    <string name="community_impact">Community Environmental Impact</string>
+    <string name="trees_mapped">Trees Mapped</string>
+    <string name="empty_pits">Empty Pits</string>
+    <string name="oxygen_score">Community Oxygen Score</string>
+    <string name="recent_activity">Recent Activity</string>
+
+    <string name="map_action_title">What would you like to do here?</string>
+    <string name="tag_tree">Tag Existing Tree</string>
+    <string name="report_pit">Report Empty Pit</string>
+    <string name="empty_pit">Empty Planting Pit</string>
+    <string name="location">Location</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="ai_identify">AI Identify Species</string>
+    <string name="ai_result">AI Result</string>
+    <string name="species_name">Species Name</string>
+    <string name="girth_cm">Girth (cm)</string>
+    <string name="age_estimate">Age Estimate (years)</string>
+    <string name="health_condition">Health Condition</string>
+    <string name="save_tree">Save Tree</string>
+
+    <string name="soil_type">Soil Type</string>
+    <string name="pit_width">Pit Width (cm)</string>
+    <string name="pit_depth">Pit Depth (cm)</string>
+    <string name="nearby_conditions">Nearby Conditions</string>
+    <string name="recommended_species">Recommended Native Species</string>
+    <string name="submit_pit">Submit Empty Pit Report</string>
+
+    <string name="species_guide">Native Species Guide</string>
+    <string name="search_species">Search species…</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="community_subtitle">Top environmental contributors in your city</string>
+    <string name="weekly_challenge">Weekly Eco-Challenge</string>
+    <string name="challenge_desc">Tag 3 trees this week to earn bonus points!</string>
+    <string name="challenge_reward">+50 bonus points</string>
+    <string name="no_leaderboard_data">No leaderboard data yet. Be the first contributor!</string>
+
+    <string name="points">Points</string>
+    <string name="trees">Trees</string>
+    <string name="pits">Pits</string>
+    <string name="language">Language</string>
+    <string name="badges">Badges</string>
+    <string name="logout">Logout</string>
+
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="admin_access_denied">Admin access required</string>
+    <string name="total_trees">Total Trees</string>
+    <string name="total_pits">Total Pits</string>
+    <string name="pending_reviews">Pending Reviews</string>
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಹಸಿರು-ಉಸಿರು ಮ್ಯಾಪರ್</string>
+    <string name="app_tagline">ಸ್ಮಾರ್ಟ್ ನಗರಗಳಿಗಾಗಿ AI-ಚಾಲಿತ ಹಸಿರು ಮ್ಯಾಪಿಂಗ್</string>
+    <string name="notification_channel_name">ಪರಿಸರ ಅಲರ್ಟ್‌ಗಳು</string>
+    <string name="notification_channel_desc">ಮರ ನವೀಕರಣಗಳು, ಸವಾಲುಗಳು ಮತ್ತು ಪುರಸಭೆ ಸೂಚನೆಗಳು</string>
+
+    <string name="welcome_back">ಮರಳಿ ಸ್ವಾಗತ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್‌ವರ್ಡ್</string>
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="register">ನೋಂದಣಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="phone">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="forgot_password">ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿರಾ?</string>
+    <string name="create_account">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="send_reset_link">ರೀಸೆಟ್ ಲಿಂಕ್ ಕಳುಹಿಸಿ</string>
+    <string name="reset_email_sent">ಪಾಸ್‌ವರ್ಡ್ ರೀಸೆಟ್ ಇಮೇಲ್ ಕಳುಹಿಸಲಾಗಿದೆ.</string>
+
+    <string name="onboard_title_1">ನಗರ ಹಸಿರನ್ನು ಮ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="onboard_desc_1">ಬೆಂಗಳೂರು ಮತ್ತು ಮೈಸೂರಿನಲ್ಲಿ ಮರಗಳನ್ನು ಟ್ಯಾಗ್ ಮಾಡಿ ಮತ್ತು ಖಾಲಿ ನಾಟಿ ಗುಳಿಗಳನ್ನು ಗುರುತಿಸಿ.</string>
+    <string name="onboard_title_2">AI ಜಾತಿ ಬುದ್ಧಿಮತ್ತೆ</string>
+    <string name="onboard_desc_2">AI ಯೊಂದಿಗೆ ಸ್ಥಳೀಯ ಜಾತಿಗಳನ್ನು ಗುರುತಿಸಿ, ಆಮ್ಲಜನಕ ಅಂಕಗಳನ್ನು ಲೆಕ್ಕ ಹಾಕಿ.</string>
+    <string name="onboard_title_3">ಸಮುದಾಯ ಪ್ರಭಾವ</string>
+    <string name="onboard_desc_3">ಅಂಕಗಳನ್ನು ಗಳಿಸಿ, ಪರಿಸರ ಸವಾಲುಗಳಲ್ಲಿ ಸೇರಿ, ಹಸಿರು ನಗರಗಳನ್ನು ನಿರ್ಮಿಸಲು ಸಹಾಯ ಮಾಡಿ.</string>
+    <string name="next">ಮುಂದೆ</string>
+    <string name="get_started">ಪ್ರಾರಂಭಿಸಿ</string>
+
+    <string name="nav_dashboard">ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="nav_map">ನಕ್ಷೆ</string>
+    <string name="nav_species">ಜಾತಿಗಳು</string>
+    <string name="nav_community">ಸಮುದಾಯ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+
+    <string name="dashboard_greeting">ಹಸಿರು ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="community_impact">ಸಮುದಾಯ ಪರಿಸರ ಪ್ರಭಾವ</string>
+    <string name="trees_mapped">ಮ್ಯಾಪ್ ಮಾಡಿದ ಮರಗಳು</string>
+    <string name="empty_pits">ಖಾಲಿ ಗುಳಿಗಳು</string>
+    <string name="oxygen_score">ಸಮುದಾಯ ಆಮ್ಲಜನಕ ಅಂಕ</string>
+    <string name="recent_activity">ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ</string>
+
+    <string name="map_action_title">ಇಲ್ಲಿ ನೀವು ಏನು ಮಾಡಲು ಬಯಸುತ್ತೀರಿ?</string>
+    <string name="tag_tree">ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಮರ ಟ್ಯಾಗ್ ಮಾಡಿ</string>
+    <string name="report_pit">ಖಾಲಿ ಗುಳಿ ವರದಿ ಮಾಡಿ</string>
+    <string name="empty_pit">ಖಾಲಿ ನಾಟಿ ಗುಳಿ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="upload_photo">ಫೋಟೋ ಅಪ್‌ಲೋಡ್</string>
+    <string name="ai_identify">AI ಜಾತಿ ಗುರುತಿಸಿ</string>
+    <string name="ai_result">AI ಫಲಿತಾಂಶ</string>
+    <string name="species_name">ಜಾತಿಯ ಹೆಸರು</string>
+    <string name="girth_cm">ಸುತ್ತಳತೆ (ಸೆ.ಮೀ)</string>
+    <string name="age_estimate">ವಯಸ್ಸು ಅಂದಾಜು (ವರ್ಷಗಳು)</string>
+    <string name="health_condition">ಆರೋಗ್ಯ ಸ್ಥಿತಿ</string>
+    <string name="save_tree">ಮರ ಉಳಿಸಿ</string>
+
+    <string name="soil_type">ಮಣ್ಣಿನ ಪ್ರಕಾರ</string>
+    <string name="pit_width">ಗುಳಿ ಅಗಲ (ಸೆ.ಮೀ)</string>
+    <string name="pit_depth">ಗುಳಿ ಆಳ (ಸೆ.ಮೀ)</string>
+    <string name="nearby_conditions">ಹತ್ತಿರದ ಪರಿಸ್ಥಿತಿಗಳು</string>
+    <string name="recommended_species">ಶಿಫಾರಸು ಮಾಡಿದ ಸ್ಥಳೀಯ ಜಾತಿಗಳು</string>
+    <string name="submit_pit">ಖಾಲಿ ಗುಳಿ ವರದಿ ಸಲ್ಲಿಸಿ</string>
+
+    <string name="species_guide">ಸ್ಥಳೀಯ ಜಾತಿ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="search_species">ಜಾತಿ ಹುಡುಕಿ…</string>
+    <string name="leaderboard">ಲೀಡರ್‌ಬೋರ್ಡ್</string>
+    <string name="community_subtitle">ನಿಮ್ಮ ನಗರದ ಉನ್ನತ ಪರಿಸರ ಕೊಡುಗೆದಾರರು</string>
+    <string name="weekly_challenge">ವಾರದ ಪರಿಸರ ಸವಾಲು</string>
+    <string name="challenge_desc">ಬೋನಸ್ ಅಂಕಗಳಿಗಾಗಿ ಈ ವಾರ 3 ಮರಗಳನ್ನು ಟ್ಯಾಗ್ ಮಾಡಿ!</string>
+    <string name="challenge_reward">+50 ಬೋನಸ್ ಅಂಕಗಳು</string>
+    <string name="no_leaderboard_data">ಇನ್ನೂ ಲೀಡರ್‌ಬೋರ್ಡ್ ಡೇಟಾ ಇಲ್ಲ. ಮೊದಲ ಕೊಡುಗೆದಾರರಾಗಿ!</string>
+
+    <string name="points">ಅಂಕಗಳು</string>
+    <string name="trees">ಮರಗಳು</string>
+    <string name="pits">ಗುಳಿಗಳು</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="badges">ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+
+    <string name="admin_dashboard">ನಿರ್ವಾಹಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="admin_access_denied">ನಿರ್ವಾಹಕ ಪ್ರವೇಶ ಅಗತ್ಯ</string>
+    <string name="total_trees">ಒಟ್ಟು ಮರಗಳು</string>
+    <string name="total_pits">ಒಟ್ಟು ಗುಳಿಗಳು</string>
+    <string name="pending_reviews">ಬಾಕಿ ವಿಮರ್ಶೆಗಳು</string>
+</resources>
